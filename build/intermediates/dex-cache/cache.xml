@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/686f6e55bd41ade8605a8f2017a5f50d5dac9b5f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_63dea111261e9dc61f71de6e207f3527a7412c5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_666754861286fa6350bd9615aaf79052f3a86087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/973b334a804df4754a597afe13183e5e37194991/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_41f6596bc760fc271c7cc3d14eee38c64d854f75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_9720e4acbf72078f8fecda0593243daeb82c6462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/780d73d6e54915970ee34e7c2757da01f2e6bf65/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_dc9d120e49cd17bc55681930e183fa098c9224e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/0877395893862dccec903a82e0790a02a8529772/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_8a478ecdf84725fa1bad8d77934d8063466e8c81.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/.android/build-cache/1640589c2b3096fae322cc531e418b7137467726/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c49ac232dc67db75472d44a15dcd3270724ac985/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/5bbad81311438926b5f4fcb7804b126cd6767f46/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_44fb2ac214058eed9a5fea02038da0f8d596da6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_13f2756ed501b9d7e113c91e3b5a43552ac51be9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_758128a47246a2e75a87f53e875522fc3a6d9f1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/76ed3ad574f83be35b5c8e4200ab693dd7eaaf87/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_a614a9cf2d7ce28775cc90921ffa07ab504f8181.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/aa5bd6121864bfcbcf74c25fbdbced5eeb759188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_9e621eb129951df99d42cfd90b2df1236a32ea00.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/.android/build-cache/61a97899566849f92dc718749cda478a3fc5b375/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8760580dcd423d5279ac1e1e8dfdf9c9bb9b4ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/db1e9d120abb88261ce2cd27b6181143d224fe71/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_9ca421913308556ab928fa1d2873fe056f085abd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_26140c957356804639408fb5d14bf312543bb9ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/9fe57b2fad1114af2b43ee776bd4150f21d390e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_c06dbd031fcc8032ee7348f782a5f86cf7a37147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/gson-2.8.0_74957d1433f4a13f9a95f2133e362f2acf6d4eed.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/.android/build-cache/89a012a306ad2e31b2b23c5866bf2b9f63fd96de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4aa37f2f33e28d98751222b31372e0353b0ee2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/e596f2570a5c3abc955edb1961abee0e3a280daa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_7a82aafca5f9033beada4393c54b27bea3c363f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_5290e445b1ca88b00fd9ae1d54d4076a88dc548b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/.android/build-cache/8bf8ddb81e0db1d33c24ecb0e509a102b33db448/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff96e387db9848cabffd9b9b508a2e08bcd600a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/.android/build-cache/4de7c82f6a9d1eb7db1682ad281e991552d2088e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fb7c18755bbaab07889e5921ecc91e4b086c5c91/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/62947110e84b74309233ad52372367711e7db436/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_693e5adf90d754be103254d4c9cf59a25ad20a65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/4ef8cdd77e6591e51c29cb17ac81a2b7eb27a740/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_f4727d12a58a495bd4ad0071d1626600009813ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e75bf8a9d1d9d2ae6bd3acd84c710dd21f66a58">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_69e6fe8885ad3821374f9ac8ebf382f9a75ea675/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/01f3747de4c1cacfe456b7ded3193beef4d35fd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_dbb6182c14d9d20967a7d6f0266d5853018efe5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/a9389d6c7e332e0fc9034d3a6756b2b6bd3ab817/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_970a0ce1ee7e5356cb1db935b9aca1c7206464e3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/Documents/testminutrade/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/robertosampaio/Documents/testminutrade/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0281416e4d8a1f4d402df2e3521513801012dabf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/ae57180ef1728db7f37b94efd3a07d99ac1ccf30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_5fcf224aa0bc34b2a92c50f981abc2e15c4756dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/7cd926eb04670d5042543b7f483818eb942423bf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_c4bdf6f75ea60d1a12e458a1923b215ddb4c8179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/11e21cb120fef5ed2f0171504cd0ead62f3d7ff4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_cbaf1be24294bb2b5451a812ccb2708825948b42.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/Documents/testminutrade/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ba98546f9100ec3b66d55843c016767e44245bb">
+        <dex dex="/Users/robertosampaio/Documents/testminutrade/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ab5357c41ccdcc3928ce4ee7e61e4034f19f0044/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/cf0f99419ee8c630021b19165190a734c10b33e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a70160a70685ce25bda1c6e094c73676a399039">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_5a8f05bef3bd29754efbe62e4c1db81ae1f36c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/robertosampaio/.android/build-cache/29be6f7a7713a97eef7cb14ff6a103ef1c11171e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/pre-dexed/debug/classes_a73fdfb10cf121f40142e98e84fb0890fc2dfba0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robertosampaio/.android/build-cache/2ed7bf892ba9498b28d00c749a7a5fb924b4b0fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/robertosampaio/Documents/Estrategos/MinutCatalog/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c80364a84b8ddf01a22d2fff2eb2ccb40268d28/classes.dex" />
+    </item>
+
+</items>
